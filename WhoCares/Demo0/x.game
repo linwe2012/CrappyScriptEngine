@@ -1,0 +1,12 @@
+@name: Beauty & Beast
+
+@description: Save your princess from the Castle occupied by the beast.
+
+@entry: 1.js
+
+@usage: 
++-----------------------------------------------+
+| go SOMEWHERE,                                 |
+| e.g. You can see exit to the north(YunKai)    |
+| > go north                                    |
++-----------------------------------------------+

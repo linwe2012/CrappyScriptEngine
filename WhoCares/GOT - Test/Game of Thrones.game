@@ -1,0 +1,12 @@
+This is the manifest file for the game.
+Note that those .js are not actually js, 
+but more like json after it eats some js and a bit cpp & twitter
+
+@name: Test
+
+@description: This is a test for the Who Cares Programm.
+New Features are tested here
+
+@entry: blah.js
+
+@description: --This is a bug, couldn't indentify this if there is no extra line after it--

@@ -1,0 +1,16 @@
+@name: GOT2
+@description: 
+Be a merchant in GOT World. Earn your coin
+<This is another demo>
+
+@entry: blah.js
+
+@usage:
++-----------------------------------------------------+
+| go SOMEWHERE,                                       |
+| e.g. You can see exit to the north(YunKai)          |
+| > go north                                          |
+| info - show info about yourself                     |
+| fight - fight an npc in the city and win some coins |
+| shop - buy some weapon so that you can fight npc    |
++-----------------------------------------------------+

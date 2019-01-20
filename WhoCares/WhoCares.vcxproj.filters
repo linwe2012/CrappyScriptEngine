@@ -1,0 +1,108 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;hm;inl;inc;xsd</Extensions>
+    </Filter>
+    <Filter Include="Resource Files">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav</Extensions>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="bootstrapper.cc">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="checks.cc">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="compile-debugger.cc">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="console.cc">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="factory.cc">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="parser-ast.cc">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="whocares.cc">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="world.cc">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="worldgen.cc">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="builtins.cc">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="attribute.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="bootstrapper.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="builtins.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="checks.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="compile-debugger.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="console.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="factory.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="game.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="listeners.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="macro-utils.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="parser-ast.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="templates.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="templates_library.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="token.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="whocares.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="world.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="worldgen.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="wrapper.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="pretty-print.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>
